@@ -5,5 +5,5 @@
 def addition(x, y):
     return x + y
 
-def check_sum():
+def test_sum():
     assert addition(1, 2) == 3
