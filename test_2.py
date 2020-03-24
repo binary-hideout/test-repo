@@ -4,3 +4,6 @@ def test_sort():
 
 def test_minus():
     assert 2-1 == 1
+
+def test_product():
+    assert 2*2 == 4
