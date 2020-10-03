@@ -7,9 +7,12 @@ def test_add():
 def GetRoberto():
     roberto = 69
 
+def linares_existe():
+    return False
+
 # test
 # test 1
 # test 2
 # test 3
-# test estoy hasta la verga
+####################! NO GROSERÍAS PRIMER AVISO
 # DANIEL
